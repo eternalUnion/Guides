@@ -13,7 +13,7 @@ Now that introduction is done, what follows is mostly just other people's guides
 
 • Endervoir / Infinite Water Source
 
-• Ender Pearls (grinder, enderman dml, lillies)
+• Ender Pearls (grinder, enderman dml (one self aware enderman chamber can support 6.2 other chambers), lillies)
 
 
 **Needed machines**:
